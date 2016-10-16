@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/imcvampire/md-to-pdf#readme",
   "dependencies": {
-    "fs": "0.0.1-security",
     "markdown-pdf": "^7.0.0"
   }
 }
