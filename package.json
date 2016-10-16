@@ -1,0 +1,22 @@
+{
+  "name": "md-to-pdf",
+  "version": "1.0.0",
+  "description": "A simple tool for converting Markdown to PDF",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imcvampire/md-to-pdf.git"
+  },
+  "keywords": [
+    "markdown",
+    "pdf",
+    "convert",
+    "tool"
+  ],
+  "author": "imcvampire (Nguyen Quoc Anh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imcvampire/md-to-pdf/issues"
+  },
+  "homepage": "https://github.com/imcvampire/md-to-pdf#readme"
+}
