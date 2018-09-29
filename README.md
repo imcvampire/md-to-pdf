@@ -1,5 +1,9 @@
 # md-to-pdf
 
+> <b>Deprecated:</b>
+>
+> Please consider move to https://github.com/simonhaenisch/md-to-pdf
+
 CLI tool to convert `Markdown` file to `PDF` file.
 
 ## Install:
